@@ -1,4 +1,4 @@
-package multiples3And5;
+package id1Multiples3And5;
 
 public class Multiple3And5 {
 

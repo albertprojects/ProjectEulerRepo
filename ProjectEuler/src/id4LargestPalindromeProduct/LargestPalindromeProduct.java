@@ -1,4 +1,4 @@
-package largestPalindromeProduct;
+package id4LargestPalindromeProduct;
 
 public class LargestPalindromeProduct {
 

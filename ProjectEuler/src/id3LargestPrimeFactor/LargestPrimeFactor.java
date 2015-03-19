@@ -1,4 +1,4 @@
-package largestPrimeNumber;
+package id3LargestPrimeFactor;
 
 import java.util.Arrays;
 
