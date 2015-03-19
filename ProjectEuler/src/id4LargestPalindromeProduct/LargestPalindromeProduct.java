@@ -9,7 +9,7 @@ public class LargestPalindromeProduct {
 		long start = System.nanoTime();
 		System.out.println(lpp.largestPalindrome());
 		long end = System.nanoTime();
-		System.out.println(((end-start)/100000) + "ms");
+		System.out.println(((end-start)/1000000) + "ms");
 				
 	}
 	
